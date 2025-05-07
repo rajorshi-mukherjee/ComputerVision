@@ -20,3 +20,5 @@ https://pypi.org/project/caer/
 pip install caer
 
 This is all it took to set it up and currently working smoothly on 2 different systems.
+
+Trying to get the git synced on 2 different systems.
